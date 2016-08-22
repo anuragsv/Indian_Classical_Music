@@ -1,0 +1,95 @@
+/* CSS Document */
+
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:700);
+
+body{
+	margin:0px;
+	padding:0px;
+	background-image:url(images/bg.png);
+}
+
+.dislink{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	color:#FC0;
+	font-weight: bold;
+}
+
+a {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	color: #FFF;
+	font-weight: bold;
+}
+a:link {
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+	color: #CCC;
+}
+a:hover {
+	text-decoration: underline;
+	color: #F5B50D;
+}
+a:active {
+	text-decoration: none;
+	color: #FFF;
+	font-size: 14px;
+}
+
+a.one {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #FFF;
+	font-weight:normal;
+}
+a.one:link {
+	text-decoration: none;
+}
+a.one:visited {
+	text-decoration: none;
+	color: #CCC;
+}
+a.one:hover {
+	text-decoration: underline;
+	color: #F5B50D;
+}
+a.one:active {
+	text-decoration: none;
+	color: #FFF;
+}.runtext {
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 11px;
+	color: #DDD;
+}
+.title01 {
+	font-size:21px; 
+	line-height:1.4em; 
+	color:#f8b30e;
+	font-family: 'Open Sans', sans-serif; 
+	font-weight:bold; 
+	letter-spacing:0px; 
+	margin-bottom:16px;
+	text-shadow:1px 1px #1e1d1b; 
+
+}
+
+.title02 {
+	font-size:15px; 
+	line-height:1.1em; 
+	color:#6CF;
+	font-family: 'Open Sans', sans-serif; 
+	font-weight:bold; 
+	letter-spacing:0px; 
+	margin-bottom:10px;
+	text-shadow:1px 1px #1e1d1b; 
+}
+
+
+.disone {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color:#6CF;
+	font-weight:normal;
+}
